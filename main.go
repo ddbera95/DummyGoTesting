@@ -6,8 +6,6 @@ func SayHello() {
 
 	fmt.Println(stringConcat("a", "b"))
 
-	fmt.Println("hello world")
-
-	fmt.Println("hello world")
+	// v 0.0.1
 
 }
