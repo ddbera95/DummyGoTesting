@@ -4,7 +4,7 @@ import "fmt"
 
 func SayHello() {
 
-	fmt.Println(stringConcat(getDummyData(), "!!"))
+	fmt.Println(stringConcat("a", "b"))
 
 	fmt.Println("hello world")
 
